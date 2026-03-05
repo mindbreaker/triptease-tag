@@ -17,7 +17,7 @@ It dynamically injects the `bootstrap.js` script by providing your unique Integr
 
 | Parameter | Required | Description |
 | --- | --- | --- |
-| Integration ID | Yes | Your unique Triptease integration identifier (e.g. `01KFDG8GYR8V0RYNA7E4H2Z0EB`). You can find this in your Triptease dashboard. |
+| Integration ID | Yes | Your unique Triptease integration identifier. You can find this in your Triptease dashboard. |
 
 ## What it does
 
