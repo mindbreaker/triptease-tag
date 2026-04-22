@@ -4,11 +4,11 @@ This is an unofficial Google Tag Manager custom template that allows you to easi
 
 It dynamically injects the `bootstrap.js` script by providing your unique Integration ID.
 
-[![Community Template Gallery Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-unpublished-red)](https://tagmanager.google.com/gallery/#/owners/mindbreaker/templates/triptease-tag)
+[![Community Template Gallery Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-published-green)](https://tagmanager.google.com/gallery/#/owners/mindbreaker/templates/triptease-tag)
 
 ## Setup
 
-1. In Google Tag Manager, go to **Templates** and import the template or install it from the Community Template Gallery.
+1. In Google Tag Manager, go to **Templates** and import the template or install it from the Community Template Gallery (https://tagmanager.google.com/gallery/#/owners/mindbreaker/templates/triptease-tag).
 2. Create a new tag using the **Triptease Bootstrap (Unofficial)** template.
 3. Enter your **Integration ID** (required).
 4. Set your trigger (e.g. All Pages) and publish.
